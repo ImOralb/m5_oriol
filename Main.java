@@ -17,7 +17,7 @@ public class Main {
      * Sortida: impressió del vostre nom pel terminal
      */
     public static void imp_NomAlumne(String alumne){
-        alumne = "Origay";
+        alumne = "Oriol";
         System.out.println("Els cotxes preferits de l'alumne " + alumne);
     }
 }
