@@ -19,6 +19,8 @@ public class Main {
     public static void imp_NomAlumne(String alumne){
         alumne = "Oriol";
         System.out.println("Els cotxes preferits de l'alumne " + alumne);
+        System.out.println("oriol");
+        System.out.println("oriol");
     }
 }
 
